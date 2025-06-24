@@ -10,3 +10,8 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 html_favicon = '_static/OIP 1.jpg'
+
+html_js_files = [
+    'livechat.js',
+]
+
